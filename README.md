@@ -17,6 +17,7 @@ Backend API for a cat adoption NGO, built with ASP.NET Core and Entity Framework
 - C#
 
 ## Project Structure
+```bash
 Patinhas/
 ├── Patinhas.API/         # Main API project
 │   ├── Controllers/      # API endpoints
@@ -24,6 +25,7 @@ Patinhas/
 │   ├── Services/         # Business logic
 │   └── Migrations/       # Database migrations
 └── Patinhas.Common/      # Shared models
+```
 
 ## Getting Started
 
