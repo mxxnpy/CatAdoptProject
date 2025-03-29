@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patinhas.API", "Patinhas.API\Patinhas.API.csproj", "{19110F59-D98F-4BDB-91F6-A17EF78C9D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patinhas.Common", "Patinhas.Common\Patinhas.Common.csproj", "{CD517529-98FB-45AD-AA24-2EAFDDBD9BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patinhas.Tests", "Patinhas.Tests\Patinhas.Tests.csproj", "{35A9DAFB-B433-40FA-A261-05D3128F3A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19110F59-D98F-4BDB-91F6-A17EF78C9D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19110F59-D98F-4BDB-91F6-A17EF78C9D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19110F59-D98F-4BDB-91F6-A17EF78C9D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19110F59-D98F-4BDB-91F6-A17EF78C9D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD517529-98FB-45AD-AA24-2EAFDDBD9BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD517529-98FB-45AD-AA24-2EAFDDBD9BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD517529-98FB-45AD-AA24-2EAFDDBD9BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD517529-98FB-45AD-AA24-2EAFDDBD9BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A9DAFB-B433-40FA-A261-05D3128F3A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A9DAFB-B433-40FA-A261-05D3128F3A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A9DAFB-B433-40FA-A261-05D3128F3A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A9DAFB-B433-40FA-A261-05D3128F3A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

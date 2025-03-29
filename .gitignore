@@ -1,0 +1,50 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.jfm
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Database
+*.db
+*.mdf
+*.ldf
+*.ndf
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+logs/
+*.log
+
+# Environment files
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
